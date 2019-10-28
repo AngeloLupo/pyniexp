@@ -4,4 +4,4 @@ Python interfaces for neuroimaging experiments
  - UDP transfer
 
  ## Install
-`pip install git+https://github.com/tiborauer/pyniexp.git`
+`pip install git+https://github.com/AngeloLupo/pyniexp.git`
